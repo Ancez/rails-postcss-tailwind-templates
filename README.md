@@ -1,24 +1,12 @@
-# README
+# Rails 7 on Steroids
+## PostCSS + TailwindCSS + Templates + Importmap
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my preferred Rails Project Setup.
 
-Things you may want to cover:
+This project includes PostCSS, with TailwindCSS. Allows us to easily separate out and scale styles via different files imported by postcss-import. We can use things like TailwindCSS `@screen md`, `@apply` etc.
 
-* Ruby version
+With Importmap we can easily scale our Javascript with ES Modules.
 
-* System dependencies
+Feel free to copy, fork, change, use this project for anything you might need it for. This project serves as a Rails Project Template.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Suggestions are highly welcome, this was a quick project setup, improvements to this readme will be greately appriciated.
