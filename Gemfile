@@ -60,6 +60,9 @@ group :development do
   # Use console on exceptions pages [https://github.com/rails/web-console]
   gem 'web-console'
 
+  # Use Hot Reloading of files on development [https://github.com/kirillplatonov/hotwire-livereload]
+  gem 'hotwire-livereload'
+
   # Add speed badges [https://github.com/MiniProfiler/rack-mini-profiler]
   # gem 'rack-mini-profiler'
 
