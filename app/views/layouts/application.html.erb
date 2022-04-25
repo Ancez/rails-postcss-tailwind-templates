@@ -11,7 +11,11 @@
     <%= javascript_include_tag 'hotwire-livereload', defer: true if Rails.env.development? %>
   </head>
 
-  <body>
-    <%= yield %>
+  <body class="bg-gray-50 flex flex-col justify-between min-h-screen">
+    <main class="flex-grow">
+      <div class="page-container">
+        <%= yield %>
+      </div>
+    </main>
   </body>
 </html>
