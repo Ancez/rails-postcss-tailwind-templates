@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/ancez/rails-postcss-tailwind-templates/badge)](https://www.codefactor.io/repository/github/ancez/rails-postcss-tailwind-templates)
+
 # Rails 7 on Steroids
 ## PostCSS + TailwindCSS + Templates + Importmap + Hotwire + LiveReload
 
